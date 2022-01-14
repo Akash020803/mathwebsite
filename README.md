@@ -255,7 +255,8 @@ h1{
 
 ## OUTPUT:
 
-![](mathweb.png)
+![mathweb](https://user-images.githubusercontent.com/94177474/149472937-e2ac03ac-0772-4a7e-9b7e-78471efba0e0.png)
+
 
 ## Result:
 
